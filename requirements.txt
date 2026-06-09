@@ -1,0 +1,4 @@
+pyTelegramBotAPI==4.34.0
+tensorflow==2.16.2 
+keras==3.0.0
+ml_dtypes==0.5.4
